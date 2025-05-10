@@ -183,9 +183,7 @@ https://live.enlightnews.com/live/enlightnews/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Enter10Bangla.in",Enter10 Bangla (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="ETNow.in",ET Now (720p)
-https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8
-#EXTINF:-1 tvg-id="ETNow.in",ET Now (720p)
-https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 #EXTINF:-1 tvg-id="ETNowSwadesh.in",ET Now Swadesh (720p)
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="FaktMarathi.in",Fakt Marathi (576p) [Not 24/7]
@@ -360,7 +358,7 @@ https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f079130
 #EXTINF:-1 tvg-id="MHOneShraddha.in",MH One Shraddha (1080p)
 https://mhlive.paramountinfosystem.com/mhoneshraddhatest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in",Mirror Now (720p)
-https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
+https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/7781416f-9ed5-4845-af3f-f617a4064b85:SIN/variant/a82436052a0f3cff51d93b973417dc77/bandwidth/1592800.m3u8
 #EXTINF:-1 tvg-id="MKSix.in",MK Six (576p) [Not 24/7]
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1 tvg-id="MKTunes.in",MK Tunes (576p) [Not 24/7]
@@ -571,12 +569,10 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8
 #EXTINF:-1 tvg-id="TimeVisionNews.in",Time Vision News (720p)
 http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8
-#EXTINF:-1 tvg-id="TimesNow.in",Times Now (480p) [Geo-blocked]
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-id="TimesNow.in",Times Now [Geo-blocked]
-https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
 #EXTINF:-1 tvg-id="TimesNowNavbharat.in",Times Now Navbharat [Geo-blocked]
-https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8
 #EXTINF:-1 tvg-id="",Toonz Kids (Indonesian dub) (576p)
 http://210.210.155.37/x6bnqe/s/s81/01.m3u8
 #EXTINF:-1 tvg-id="",Toonz Kids (Indonesian dub) (360p)
